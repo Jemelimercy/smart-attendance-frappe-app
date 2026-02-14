@@ -40,7 +40,7 @@ The system uses a camera feed to detect employees, calculates a confidence score
 
 ### 2. Python Client Setup
 ```bash
-git clone [https://github.com/](https://github.com/)[YourUsername]/warehouse-ai-attendance.git
+git clone [https://github.com/Jemelimercy/smart-attendance-frappe-app.git
 cd warehouse-ai-attendance
 pip install -r requirements.txt
 
